@@ -1,0 +1,1 @@
+const e={3:{years:[{year:2021,bodies:[{name:"SUV/4X4",fuels:[{name:"ELECTRIQUE",gears:[{name:"AUTOMATIQUE",engines:["163"]}]}]}]},{year:2022,bodies:[{name:"SUV/4X4",fuels:[{name:"ELECTRIQUE",gears:[{name:"AUTOMATIQUE",engines:["163"]}]}]}]},{year:2023,bodies:[{name:"SUV/4X4",fuels:[{name:"ELECTRIQUE",gears:[{name:"AUTOMATIQUE",engines:["163"]}]}]}]}]}};export{e as default};

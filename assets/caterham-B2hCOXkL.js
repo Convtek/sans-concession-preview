@@ -1,0 +1,1 @@
+const e={"SUPER SEVEN":{years:[{year:2009,bodies:[{name:"ROADSTER",fuels:[{name:"ESSENCE",gears:[{name:"MANUELLE",engines:["125"]}]}]}]},{year:2010,bodies:[{name:"ROADSTER",fuels:[{name:"ESSENCE",gears:[{name:"MANUELLE",engines:["125"]}]}]}]},{year:2011,bodies:[{name:"ROADSTER",fuels:[{name:"ESSENCE",gears:[{name:"MANUELLE",engines:["125"]}]}]}]}]}};export{e as default};

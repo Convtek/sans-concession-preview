@@ -1,0 +1,1 @@
+const e={years:[{year:2025,bodies:[{name:"BERLINE",fuels:[{name:"ELECTRIQUE",gears:[{name:"AUTOMATIQUE",engines:["8"]}]}]}]},{year:2026,bodies:[{name:"BERLINE",fuels:[{name:"ELECTRIQUE",gears:[{name:"AUTOMATIQUE",engines:["8"]}]}]}]}]},a={DUO:e};export{e as DUO,a as default};

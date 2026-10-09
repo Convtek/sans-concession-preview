@@ -1,0 +1,1 @@
+const e={years:[{year:2018,bodies:[{name:"BERLINE",fuels:[{name:"HYBRIDE ( ESSENCE - ELECTRIQUE )",gears:[{name:"AUTOMATIQUE",engines:["150"]}]}]}]},{year:2019,bodies:[{name:"BERLINE",fuels:[{name:"HYBRIDE ( ESSENCE - ELECTRIQUE )",gears:[{name:"AUTOMATIQUE",engines:["150"]}]}]}]}]},E={TX:e};export{e as TX,E as default};

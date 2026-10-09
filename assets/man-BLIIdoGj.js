@@ -1,0 +1,1 @@
+const e={"TGE VU":{years:[{year:2023,bodies:[{name:"SOCIÉTÉ",fuels:[{name:"DIESEL",gears:[{name:"MANUELLE",engines:["140"]}]}]}]},{year:2024,bodies:[{name:"SOCIÉTÉ",fuels:[{name:"DIESEL",gears:[{name:"MANUELLE",engines:["140"]}]}]}]},{year:2025,bodies:[{name:"SOCIÉTÉ",fuels:[{name:"DIESEL",gears:[{name:"MANUELLE",engines:["140"]}]}]}]}]}};export{e as default};
